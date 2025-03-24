@@ -266,6 +266,10 @@ app.get('/postfach', (req, res) => {
 	res.render('postfach.ejs',{});
 });
 
+app.get('/agb', (req, res) => {
+	res.render('agb.ejs',{});
+});
+
 // Sobald die Seite "Kredit beantragen" aufgerufen wird, wird die app.get abgearbeitet.
 app.get('/kreditBeantragen', (req, res) => {
 	

@@ -10,6 +10,13 @@ Am Ende müssen Sie Ihr Projekt commiten und pushen. Senden Sie mir den Link in 
 ## Aufgabe 2
 
 Beantworten Sie die folgenden Frage hier direkt im Text: Welche Aufgabe haben cookies in unserer Banking-App?
+- Sie speichern daten sicher von unserem Kunden
+
+Warum sind passkeys besser als die Kombination aus Benutzername und Kennwort?
+- Passkeys können nicht angeschaut werden von den Servern von den jeweiligen anbieter
+- Es ist einfacher sich anzumelden mit einem passkey
+- Man muss sich kein Passwort oder Bentzernamen merken, ausser für den passkey jenachdem was man für einen benutzt
+- Benutzername und Kennwort kann man oft hacken oder klauen 
 
 ## Aufgabe 3
 
